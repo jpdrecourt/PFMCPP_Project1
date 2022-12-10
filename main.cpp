@@ -116,13 +116,13 @@ paint.runDownBrush();
 //  action 3: The paint dries
 paint.dry();
 //  9)
-//  Noun: ghost
-//  action 1: the ghost haunts the house
-ghost.hauntHouse();
-//  action 2: the ghost passes through a wall
-ghost.passThroughWall();
-//  action 3: the ghost runs away from the ghostbuster
-ghost.runAwayFromGhostbuster();
+//  Noun: draculaTheVampire
+//  action 1: draculaTheVampire sleeps in a coffin
+draculaTheVampire.sleepInCoffin();
+//  action 2: draculaTheVampire sucks blood
+draculaTheVampire.suckBlood();
+//  action 3: draculaTheVampire hunts at night
+draculaTheVampire.huntAtNight();
 //  10)
 //  Noun: santa
 //  action 1: Santa brings presents
